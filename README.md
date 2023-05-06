@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on
   - Anything. I'm eager to stay active in projects, however I can. 
 - 📫 How to reach me
-  - [🐦 - Twitter](https://twitter.com/magicmicah)
+  - [🐦 - Twitter](https://twitter.com/magicmicah85)
   - [🧑‍💻 Linkedin](https://www.linkedin.com/in/micah-magruder-706b29180/)
 
 <!---
