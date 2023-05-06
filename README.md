@@ -3,7 +3,7 @@
   - Frontend
   - Backend
   - Infrastructure
-  - - https://github.com/magicmicah/terraform_things
+  - - (Terraform)[https://github.com/magicmicah/terraform_things]
   - Machine learning
   - Open source in general.
 - 🌱 I’m currently learning
