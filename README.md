@@ -16,6 +16,7 @@
 - 📫 How to reach me
   - [🐦 - Twitter](https://twitter.com/magicmicah85)
   - [🧑‍💻 Linkedin](https://www.linkedin.com/in/micah-magruder-706b29180/)
+  - [Lobste.rs](https://lobste.rs/) - I'd really love an invite if anyone can send me one. :) 
 
 <!---
 magicmicah/magicmicah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
